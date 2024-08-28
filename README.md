@@ -1,4 +1,6 @@
-# pulumi-aws-4413
+# Pulumi SST Restate
+
+Example application on how to deploy restate with SST
 
 https://github.com/pulumi/pulumi-aws/issues/4413
 
