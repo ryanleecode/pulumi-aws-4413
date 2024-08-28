@@ -1,0 +1,17 @@
+{
+  "name": "pulumi-aws-4413",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "turbo run build",
+    "clean": "turbo run clean",
+    "dev": "turbo run dev"
+  },
+  "dependencies": {
+    "sst": "3.0.74"
+  },
+  "devDependencies": {
+    "@pulumi/pulumi": "^3.130.0"
+  },
+  "packageManager": "pnpm@9.8.0+sha256.56a9e76b51796ca7f73b85e44cf83712862091f4d498c0ce4d5b7ecdc6ba18f7"
+}

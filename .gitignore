@@ -1,0 +1,11 @@
+.tshy*
+dist
+node_modules
+.env
+
+# sst
+.sst
+.turbo
+out
+.env.local
+restate-data
